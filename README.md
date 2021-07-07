@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dhanashreerane18@gmail.com**
 
-- ⚡ Fun fact **I think I am funny XD**
+- ⚡ Fun fact **I think I am funny**
 
 
 <h3 align="left">Languages and Tools:</h3>
