@@ -3,9 +3,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanashreerane890&label=Profile%20views&color=0e75b6&style=flat" alt="dhanashreerane890" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanashreerane890" alt="dhanashreerane890" /></a> </p>
 
 - 🌱 I’m currently learning **Android Development**
 
