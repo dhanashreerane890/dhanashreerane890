@@ -8,6 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://dhanashreerane18.wixsite.com/my-site-2](https://dhanashreerane18.wixsite.com/my-site-2)
 
 - 📝 I regularly write articles on [https://dhanashreerane18.medium.com/](https://dhanashreerane18.medium.com/)
+- 📫 How to reach me **dhanashreerane18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
